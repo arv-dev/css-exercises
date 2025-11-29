@@ -1,1 +1,29 @@
 /* Add CSS Styling */
+
+/* div p {
+    background-color: rgb(194, 206, 28);
+    color: red;
+    text-align: center;
+    font-size: 20px;
+} */
+
+/* .container p {
+    background-color: rgb(194, 206, 28);
+    color: red;
+    text-align: center;
+    font-size: 20px;
+} */
+
+/* .container .text {
+    background-color: rgb(194, 206, 28);
+    color: red;
+    text-align: center;
+    font-size: 20px;
+} */
+
+div .text {
+    background-color: rgb(194, 206, 28);
+    color: red;
+    text-align: center;
+    font-size: 20px;
+}
